@@ -1,7 +1,5 @@
 # gameTheoryProg
-Analysis of "The Prisoner's Dilemma" and "The Stag Hunt".
-
-Implemented 2 games, the Prisoner's Dilemma, The Stag Hunt to compare their results. Only need to change one function to make it a prisoner's dilemma or a stag hunt game.
+Analysis of "The Prisoner's Dilemma" and "The Stag Hunt". Implemented 2 games, the Prisoner's Dilemma, The Stag Hunt to compare their results. Only need to change one function to make it a prisoner's dilemma or a stag hunt game.
 
 ### The theory behind the games: 
 
